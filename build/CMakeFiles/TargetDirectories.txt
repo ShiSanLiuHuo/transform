@@ -1,3 +1,0 @@
-/home/wjr/transform/build/CMakeFiles/transform.dir
-/home/wjr/transform/build/CMakeFiles/edit_cache.dir
-/home/wjr/transform/build/CMakeFiles/rebuild_cache.dir
